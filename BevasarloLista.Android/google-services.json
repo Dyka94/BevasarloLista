@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "46359188727",
+    "firebase_url": "https://bevasarlolistaxamarin.firebaseio.com",
+    "project_id": "bevasarlolistaxamarin",
+    "storage_bucket": "bevasarlolistaxamarin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46359188727:android:4fbb49284d22f8a9",
+        "android_client_info": {
+          "package_name": "com.companyname.appname"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46359188727-ccqh6erlib2vr0n57tdsjfcvaf9j8ne1.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "46359188727-9hdgngimet5aea78kcq9pl4lh0nk02um.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "46359188727-ccqh6erlib2vr0n57tdsjfcvaf9j8ne1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDZyqRDblqnPXdkfA3hfDLXivuA5JNRsI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
